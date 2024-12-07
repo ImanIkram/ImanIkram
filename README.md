@@ -52,6 +52,7 @@ I'm a **Daedalus Honors Scholar** at Hunter College pursuing a Bachelor's in **C
 <img src="https://github.com/user-attachments/assets/2484cb97-77bc-4001-a164-d487ef362570" alt="flower" width="300"/>
 <img src="https://github.com/user-attachments/assets/7195d851-7bcc-400d-8e28-48629440039c" alt="nature" width="300"/>
 <img src="https://github.com/user-attachments/assets/46f74de8-a83f-4344-9f29-c788c13b46c8" alt="flower" width="300"/>
+<img src="https://github.com/user-attachments/assets/56d3d975-ff81-4046-9b5c-15476a245504" alt="flower" width="300"/>
 
 
 
